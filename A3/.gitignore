@@ -1,7 +1,0 @@
-# Log files
-dump.txt
-reducer.log
-
-# Data directories
-A3/Data/Mappers/
-A3/Data/Reducers/
